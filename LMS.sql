@@ -1,6 +1,3 @@
-show databases;
-drop database library;
-drop database information_schema;
 CREATE DATABASE LMS;
 USE LMS;
 CREATE TABLE Books (
